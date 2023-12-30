@@ -1,0 +1,33 @@
+C:\Users\JayC\source\repos\Null v4\Null v4\obj\Debug\Null v4.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\Null v4\Null v4\obj\Debug\Null v4.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\cimgui.dll
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Null v4.exe.config
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Null v4.exe
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Null v4.pdb
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Discord.Net.Commands.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Discord.Net.Core.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Discord.Net.Rest.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\ImGui.NET.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Memory.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Buffers.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Collections.Immutable.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Interactive.Async.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Linq.Async.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Memory.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Reactive.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.ValueTuple.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\obj\Debug\Null v4.csproj.CopyComplete
+C:\Users\JayC\source\repos\Null v4\Null v4\obj\Debug\Null v4.exe
+C:\Users\JayC\source\repos\Null v4\Null v4\obj\Debug\Null v4.pdb
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\Dropbox.Api.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JayC\source\repos\Null v4\Null v4\obj\Debug\Null v4.csproj.Fody.CopyLocal.cache
